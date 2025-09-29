@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "skangasl/sara-kangaslahti",
+    "data-repo": "skangasl/website",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
